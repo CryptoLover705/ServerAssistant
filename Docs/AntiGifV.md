@@ -1,2 +1,0 @@
-# AntiGifV Help
-

@@ -1,12 +1,10 @@
 # BanCheck Help
 
-Look up users on various ban lists.<br/><br/>This cog allows server admins to check their members against multiple external ban lists.<br/>It can also automatically check new members that join the server,<br/>and optionally ban them if they appear in a list.<br/><br/>For a quick rundown on how to get started with this cog,<br/>check out [the readme](https://github.com/PhasecoreX/PCXCogs/tree/master/bancheck/README.md)
+Look up users on various ban lists.<br/><br/>This cog allows server admins to check their members against multiple external ban lists.<br/>It can also automatically check new members that join the server,<br/>and optionally ban them if they appear in a list.<br/><br/>
 
 # banchecksetglobal
  - Usage: `[p]banchecksetglobal `
  - Restricted to: `BOT_OWNER`
-
-Configure global BanCheck settings.<br/><br/>For a quick rundown on how to get started with this cog,<br/>check out [the readme](https://github.com/PhasecoreX/PCXCogs/tree/master/bancheck/README.md)
 
 ## banchecksetglobal settings
  - Usage: `[p]banchecksetglobal settings `
@@ -23,7 +21,6 @@ Set (or delete) an API key for a global service.<br/><br/>Behind the scenes, thi
  - Restricted to: `ADMIN`
  - Checks: `server_only`
 
-Configure BanCheck for this server.<br/><br/>For a quick rundown on how to get started with this cog,<br/>check out [the readme](https://github.com/PhasecoreX/PCXCogs/tree/master/bancheck/README.md)
 
 ## bancheckset autoban
  - Usage: `[p]bancheckset autoban `
